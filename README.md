@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to my porfolio
 
-You can use the [editor on GitHub](https://github.com/ZacharyDeNoto/ZacharyDeNoto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Work
 
-- Bulleted
-- List
+Project 1
 
-1. Numbered
-2. List
+Project 2
 
-**Bold** and _Italic_ and `Code` text
+Project 3
 
-[Link](url) and ![Image](src)
-```
+Project 4
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Project 5
 
-### Jekyll Themes
+Project 6
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZacharyDeNoto/ZacharyDeNoto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Project 7
 
-### Support or Contact
+Project 8
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Project 9
+
+Project 10
+
+
+### Contact
+
+Cell: 585-683-8068
+
+[LinkedIn](https://www.linkedin.com/in/zachary-denoto/)
+
+<z.denoto@gmail.com>
+
