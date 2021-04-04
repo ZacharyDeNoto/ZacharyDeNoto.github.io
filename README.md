@@ -8,26 +8,25 @@
 
 ### Work
 
-Project 1
+DSC 510 final project- Get your Weather
 
-Project 2
+DSC 520 final project- Lyft vs Uber Rides
 
-Project 3
+[DSC 530 final project- Vaccinations in Schools](https://github.com/ZacharyDeNoto/DSC530) 
 
-Project 4
+DSC 540 final project- Average Cryptocurrency Prices
 
-Project 5
+DSC 550 final project- Student Alcohol Consumption
 
-Project 6
+DSC 630 final project- NCAA Team Wins
 
-Project 7
+DSC 640 final project- Vehicle vs Airplane deaths
 
-Project 8
+[DSC 680 Project 1- Used Car Prices](https://github.com/ZacharyDeNoto/DSC-680-Project-1)
 
-Project 9
+DSC 680 Project 2-TBD
 
-Project 10
-
+DSC 680 Project 3-TBD
 
 ### Contact
 
